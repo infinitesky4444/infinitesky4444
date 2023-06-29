@@ -79,7 +79,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/infinitesky4444/infinitesky4444/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/infinitesky4444/infinitesky4444/output/snake.svg" alt="Snake animation" />
 
 ###
 
