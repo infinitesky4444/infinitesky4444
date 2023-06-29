@@ -79,8 +79,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/infinitesky4444/infinitesky4444/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
