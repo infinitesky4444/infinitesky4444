@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! I am Steven Roy<br>Perfect Web & Blockchain Full Stack Developer is here.</h2>
+<h2 align="center">Hi 👋! I am Justin Peavy<br>Perfect Web & Blockchain Full Stack Developer is here.</h2>
 
 ###
 
