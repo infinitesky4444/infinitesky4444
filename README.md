@@ -1,8 +1,8 @@
-<h1 align="center">Web & Blockchain Full Stack Developer</h1>
+<h1 align="center">Full Stack Developer</h1>
 
 ###
 
-<h2 align="center">Hi 👋! I am Justin Peavy<br>Perfect Web & Blockchain Full Stack Developer is here.</h2>
+<h2 align="center">Hi 👋!<br>Perfect Web & Blockchain Full Stack Developer is here.</h2>
 
 ###
 
